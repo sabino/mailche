@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sabino/mailche/issues"
   },
-  "homepage": "https://github.com/sabino/mailche#readme"
+  "homepage": "https://github.com/sabino/mailche#readme",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
 }
